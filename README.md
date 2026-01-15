@@ -1,4 +1,4 @@
-# PrivacyPolicy for Bari App
+# PrivacyPolicy
 
 This app does not collect any personally identifiable information. Data is not shared with third parties. 
 
